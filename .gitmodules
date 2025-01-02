@@ -1,0 +1,6 @@
+[submodule "_InquireA"]
+	path = _InquireA
+	url = https://github.com/Quantaphocpython/_InquireA.git
+[submodule "SC-InquireA"]
+	path = SC-InquireA
+	url = https://github.com/WeTranscend-labs/SC-InquireA.git
