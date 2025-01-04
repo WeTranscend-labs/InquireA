@@ -58,7 +58,6 @@ Follow the steps below to set up the project locally.
      NEXT_PUBLIC_APP_NAME=YourAppName
 	 NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=your-wallet-connect-project-id
 	 NEXT_PUBLIC_NETWORK_URL=https://your-network-url
-	 NEXT_PUBLIC_NETWORK_RPC_INFURA_KEY=your-infura-rpc-key
 	 NEXT_PUBLIC_CONTRACT_ADDRESS=your-contract-address
 	 NEXT_PUBLIC_TINYMCE_API_KEY=your-tinymce-api-key
      ```
